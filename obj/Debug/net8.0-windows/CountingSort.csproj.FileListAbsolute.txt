@@ -1,0 +1,16 @@
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\bin\Debug\net8.0-windows\CountingSort.exe
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\bin\Debug\net8.0-windows\CountingSort.deps.json
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\bin\Debug\net8.0-windows\CountingSort.runtimeconfig.json
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\bin\Debug\net8.0-windows\CountingSort.dll
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\bin\Debug\net8.0-windows\CountingSort.pdb
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.Form1.resources
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.csproj.GenerateResource.cache
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.AssemblyInfo.cs
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.dll
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\refint\CountingSort.dll
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.pdb
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\CountingSort.genruntimeconfig.cache
+C:\Users\HP Pavilion\Documents\Projects\CountingSort\obj\Debug\net8.0-windows\ref\CountingSort.dll
